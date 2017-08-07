@@ -1,0 +1,103 @@
+body {
+   background: url("https://s19.postimg.org/j7fp6kmub/hq_R7r.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+   background-size: cover;
+   margin:0;
+   padding:0;
+  font-family: Helvetica, Arial, Sans-Serif;
+
+}
+
+html,body {
+   height: 100%;
+} 
+body {
+   padding: 0px;
+     margin:0px; 
+     background:url('https://s19.postimg.org/hd2uotztv/image.jpg') ; 
+     background-position: center; 
+     background-size: cover; 
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+ }
+
+h1.lead {
+  margin-bottom:0;
+  font-size: 50px;
+  color: #fff;
+  font-family: 'Lobster Two', cursive;
+  text-shadow: 2px 2px 2px rgba(0,0,0,.5);
+}
+ .searh-wrapper {
+    margin-top: 30px;
+ }
+ .search-wrapper, .input-holder {
+  padding:10px 15px;
+  border:none;
+  background: transparent;
+ }
+ .search-input {
+    width: 250px;
+    color: #fff;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border:none;
+    border-radius: 45px;
+    font-size: 16px;
+    background-color: rgba(0,0,0,.5);
+    background-image: url('https://s19.postimg.org/r1kw5pk0z/mag.png');
+    background-size: 32px 32px;
+    background-repeat: no-repeat;
+    background-position: 12px 8px; 
+    background-repeat: no-repeat;
+    padding: 15px 20px 15px 50px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+.search-input:focus {
+    width: 100%;
+    outline:none;
+    
+}
+
+::-webkit-input-placeholder {
+  color: #ADD8E6;
+}
+::-moz-placeholder { 
+  color: #ADD8E6;
+}
+:-ms-input-placeholder {
+  color:#ADD8E6;
+}
+:-moz-placeholder { 
+  color: #ADD8E6;
+}
+
+div.box {
+   padding: 10px 15px;
+   color: #fff;
+   border-radius: 15px;
+   margin-bottom: 10px;
+   background: rgba(0,191,255,.5);
+}
+
+ h3 {
+   font-size: 32px
+   margin-bottom:10px;
+   color: #000;
+   text-shadow: 1px 1px 1px;
+}
+
+div.box a>p {
+   font-style: sans-sherif;
+   font-size: 16px;
+   color: #fff;
+}
+
+div.box a {
+  text-decoration:none;
+   /*font-size: 16px;*/
+}
